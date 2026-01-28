@@ -1,0 +1,14 @@
+{
+    "channel_names": {
+        "0": "modality"
+    },
+    "labels": {
+        "background": 0,
+        "pubic symphysis": 1,
+        "fetal head": 2
+    },
+    "numTraining": 4000,
+    "file_ending": ".mha",
+    "name": "Dataset705_AOP",
+    "dataset_description": "Pubic Symphysis-Fetal Head Segmentation and Angle of Progression"
+}
